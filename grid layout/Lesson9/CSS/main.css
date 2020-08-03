@@ -1,0 +1,41 @@
+.grid-box {
+    display: grid;
+    background-color: black;
+    grid-gap: 15px;
+    padding: 15px;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(4,1fr);
+    height: 95vh;
+    grid-template-areas:
+    "a1 a1 a4 a4"
+    "a1 a1 a5 a6"
+    "a2 a3 a3 a6"
+    "a2 a3 a3 a6"
+;
+
+
+}
+
+.grid-box>div {
+    background-size: cover;
+    background-position: center;
+}
+
+.grid-box>div:nth-child(1) {
+    grid-area: a1;
+}
+.grid-box>div:nth-child(2) {
+    grid-area: a2;
+}
+.grid-box>div:nth-child(3) {
+    grid-area: a3;
+}
+.grid-box>div:nth-child(4) {
+    grid-area: a4;
+}
+.grid-box>div:nth-child(5) {
+    grid-area: a5;
+}
+.grid-box>div:nth-child(6) {
+    grid-area: a6;
+}

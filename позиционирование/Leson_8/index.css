@@ -1,0 +1,125 @@
+
+.header1{
+
+  border: 1px solid grey;
+    width: 2340px;
+height: 200px;
+    bottom: 10px;
+}
+.circle{
+    border: 15px solid grey;
+    border-radius: 70%;
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: relative;
+    top: 120px;
+    left: 80px;
+}
+.text_Popstar{
+    position: relative;
+    top: -20px;
+    left: 220px;
+    right:1px ;
+    bottom: 50px;
+    font-weight: bold;
+    color: grey;
+    font-family: Arial;
+    font-size: 3vh;
+}
+.header_3{
+    border: 1px solid grey;
+position: relative;
+    width: 2340px;
+    height: 600px;
+    bottom: 800px;
+    top: 445px;
+}
+.block_header_3{
+    border: 1px solid grey;
+    position: relative;
+    width: 300px;
+    height: 25px;
+    top: 0px;
+    bottom: 800px;
+   background: darkgrey;
+}
+.header_2{
+    border: 1px solid grey;
+    position: absolute;
+    width: 2340px;
+    height: 649px;
+    top: 7px;
+    bottom: 100px;
+}
+.Text_header_3{
+
+    position: relative;
+    width: 300px;
+    height: 25px;
+   left: 1400px;
+    top: -26px;
+    bottom: 800px;
+background: white;
+}
+.bloc_header_2{
+    border: 1px solid grey;
+    position: absolute;
+    width: 335px;
+    height: 25px;
+    left: 2000px;
+    top: 203px;
+    bottom: 800px;
+    background: darkgrey;
+}
+.Text_header_2{
+    position: relative;
+    width: 100px;
+    height: 25px;
+    left: 2000px;
+    top: 240px;
+    bottom: 800px;
+    background: white;
+}
+.Text_header_2_1{
+    position: relative;
+    width: 100px;
+    height: 25px;
+    left: 2000px;
+    top: 260px;
+    bottom: 800px;
+    background: white;
+}
+.Text_header_2_2{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    left: 2000px;
+    top: 300px;
+    bottom: 800px;
+    background: white;
+}
+.Text_header_2_3{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    left: 100px;
+    top: 0px;
+    bottom: 800px;
+    background: white;
+    color: grey;
+}
+.Text_header_2_4{
+    position: relative;
+    width: 400px;
+    height: 200px;
+    left: 400px;
+    top: -220px;
+    bottom: 800px;
+    background: white;
+
+}
+
+
+
+

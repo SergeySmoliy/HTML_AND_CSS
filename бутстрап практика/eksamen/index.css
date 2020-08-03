@@ -1,0 +1,722 @@
+.navbar-inverse{
+    background-color: black;
+}
+.well_form {
+    position: relative;
+}
+.home_block__info_block {
+    margin-top: 112px ;
+}
+.home_block__header {
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+
+}
+.header_block__control_block {
+    padding: 18px 35px;
+}
+.home_block__form_block {
+    background-color: #fff;
+    margin-top: 140px;
+    border-radius: 5px;
+    z-index: 1;
+}
+.form-control {
+    border: none;
+    border-bottom: 1px solid #d6d6d6;
+    border-radius: 0;
+    margin-bottom: 45px;
+}
+
+input.form-control {
+    box-shadow: none;
+}
+
+.form-control:last-child {
+    margin-bottom: 85px;
+}
+.free {
+    color: #ff8b38;
+}
+.well_header {
+    background-color: #f5f5f5;
+    padding-left: 53px;
+    padding-top: 18px;
+    padding-right: 56px;
+    padding-bottom:20px ;
+    font-family: "Open Sans ",  sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px 5px 0 0;
+}
+.btn-block {
+    height: 56px;
+    background-color : #ff9b51;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 0;
+    text-align: center;
+    color: white;
+    font-family: "Open Sans",  sans-serif;
+    font-size: 15px;
+    line-height: 50px;
+}
+
+
+body{
+    height: 7000px;
+}
+.header_menu_item{
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+}
+.navbar-inverse .navbar-nav>li>a{
+    color: #ffffff;
+}
+.header{
+    height: 70px;
+    background-color: #000000;
+    padding-top: 10px;
+}
+.home_block{
+    background-image: url("images/gorod.jpg");
+    background-size:cover;
+    background-position:center;
+    padding-bottom: 140px;
+}
+.home_block_info_block{
+    margin-top: 112px;
+
+}
+.home_block_header{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+}
+.line{
+   background-color:  #ff8b38;
+    width: 60px;
+    height: 2px;
+   margin-top: 37px;
+
+}
+.block_text_home{
+    margin-top: 40px;
+    font-family: 'Raleway Light', sans-serif;
+    color:  #f5f5f5;
+
+}
+.text_butons{
+margin-left: 30px;
+    margin-top: -32px;
+}
+.butons{
+    margin-top: 49px;
+   height: 41px;
+
+width: 131px;
+text-align: center;
+border: solid 1px;
+ color: white;
+
+
+    display: block;
+    box-sizing: border-box;
+    padding: 8px;
+    max-width: 200px;
+    background: transparent;
+    text-decoration: none;
+    letter-spacing: 1px;
+    transition: all 0.3s ease-out;
+
+
+}
+.header_text{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: #333333;
+
+}
+.line2{
+    background-color:black;
+    width: 100%;
+    height: 2px;
+    margin-top: 32px;
+}
+.text_paragraf{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #86878b;
+}
+.text{
+    color: #ffffff;
+}
+
+.col-md-1{
+
+    margin-top: 32px;
+}
+.home_block2__social_item{
+    font-size: 50px;
+    color:#cccccc;
+    cursor: pointer;
+}
+
+.home_block2__social_item:hover {
+    color: #ff8b38;
+}
+.home_block_2 {
+    background: #f5f5f5;
+}
+.home_block3{
+
+    margin-top: 153px;
+
+    /*border:solid white;*/
+}
+.home_block5 {
+}
+
+
+.tab {
+
+
+
+
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button.tablinks1 {
+    display: block;
+    background-color: orange;
+    color: black;
+    padding: 22px 16px;
+    width: 116px;
+  height: 116px;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    font-family: "Open Sans", Bold;
+
+
+}
+.tab button.tablinks2 {
+    display: block;
+    background-color: black;
+    color: black;
+    padding: 22px 16px;
+    width: 116px;
+    height: 116px;
+    outline: none;
+    text-align: center;
+
+    font-family: "Open Sans", Bold;
+
+
+}
+.tab button.tablinks3 {
+    display: block;
+    background-color: black;
+    color: black;
+    padding: 22px 16px;
+    width: 116px;
+    height: 116px;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+    font-family: "Open Sans", Bold;
+
+
+
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+    background-color: #ccc;
+}
+.tile{
+
+}
+
+
+/* Style the tab content */
+.tabcontent {
+    float: left;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 70%;
+    border-left: none;
+    height: 300px;
+}
+.tablinks1{
+    background-color: black;
+}
+.text_butones{
+    color: white;
+}
+.home_block4{
+    margin-top: 150px;
+    font-family: 'Open Sans', Bold;
+    color: #000000;
+    font-size: 20px;
+
+}
+.text_home_block_4{
+    font-family: 'Open Sans', Regular;
+    font-size: 14px;
+    color: #86878b;
+
+}
+.sity{
+    margin-top: 180px;
+
+
+}
+.sagolovok_block_4{
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    font-size: 20px;
+
+}
+.buton_home_block_4{
+    margin-top: 55px;
+    height: 50px;
+    width: 123px;
+    border-radius: 5px;
+    background-color: #ff8b38;
+    color: white;
+}
+.home_block5{
+    margin-top: 252px;
+
+}
+.sagolovok_block_5{
+    margin-top: 270px;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    font-size: 20px;
+}
+.text_block_5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #86878b;
+    margin-top: 35px;
+}
+
+.circle{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    border: 2px solid #ff8b38;
+    background-color: transparent;
+    margin-top: 55px;
+}
+.sagolovock_2
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #212121;
+    margin-top: 63px;
+}
+.text_home_block_5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #86878b;
+}
+.fase{
+    margin-top: -45px;
+}
+.sagolovock_3{
+    margin-top: 280px;
+    font-family: 'Open Sans', Bold;
+    color: black;
+}
+.text_home_block_6{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #86878b;
+    margin-top: 43px;
+}
+.city2{
+    margin-top: 240px;
+}
+.div_text{
+  text-align: center;
+    margin-top: 345px;
+    font-family: 'Raleway', Regular;
+
+}
+.sagolovock_4{
+    font-size: 6ch;
+    color: #212121;
+}
+.line3{
+    display: block;
+    height: 2px;
+    width: 63px;
+    margin: 0px auto 34px;
+    background-color: #ff9b51;
+}
+.text_home_block_7{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #86878b;
+    margin-top: 43px;
+   text-align: center;
+
+}
+.img1{
+    margin-top: 118px;
+
+
+}
+.img2{
+    margin-top: 118px;
+
+}
+.img3{
+    margin-top: 118px;
+
+}
+.circle2_block_7{
+
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    border: 2px solid #ff8b38;
+    background-color: transparent;
+text-align: center;
+    padding-top: -60px;
+
+
+}
+
+.kartinka_block_7{
+    margin-top: 21px;
+
+}
+.sagolovock_5{
+    font-family: 'Open Sans', Bold;
+    margin-top: 70px;
+    color: #333333;
+
+padding-right: 250px;
+    text-align: center;
+
+
+}
+.pwe{
+    margin-top: 80px;
+}
+.background_saktion{
+    background-color: #f5f5f5;
+
+}
+.fas{
+    color: #ff8b38;
+ padding-top: 15px;
+
+}
+.sagolovock1_block_7{
+margin-top: -20px;
+}
+.sagolovock2_block_7{
+    margin-top: -20px;
+}
+.sagolovock3_block_7{
+    margin-top: -32px;
+}
+. fa-skull-crossbones{
+background-color: black;
+}
+.text_block_7{
+    font-family: 'Open Sans', sans-serif;
+    color: #86878b;
+}
+.sagolovok_block_8{
+    font-family: 'Raleway', sans-serif;
+}
+.text_block_8{
+
+    margin-top: 39px;
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+    display: inline-grid;
+margin-top: 15px;
+
+
+}
+.awesome_list{
+
+    margin-right: -260px;
+}
+.awesome_list__item{
+
+}
+.text_block_8_0{
+    margin-top: 39px;
+    font-family: 'Open Sans', sans-serif;
+    color:#86878b;
+    display: inline-grid;
+    margin-top: 15px;
+}
+.menu_header_text{
+    margin-top: 148px;
+
+
+}
+.menu_header_text2{
+    margin-top: 111px;
+    margin-left: -30px;
+
+
+}
+.block_1_section8{
+    width: 342px;
+    height: 64px;
+    background: #333333;
+  text-align: center;
+
+
+
+
+}
+.dis {
+
+}
+.block_2_section8{
+
+    width: 342px;
+    height: 64px;
+    background-color: #333333;
+
+}
+.menu_header_text3{
+    margin-top: 148px;
+    padding-left: 130px;
+}
+.block_prise{
+
+    margin-top: 14px;
+    width: 342px;
+    height: 190px;
+    background: #333333;
+
+    font-family: 'Raleway', Bold;
+    color:white;
+    text-align: center;
+    font-size:40px;
+
+padding-top: 1px;
+
+}
+.block_prise2{
+    margin-top: 14px;
+    width: 342px;
+    height: 190px;
+    background: #333333;
+
+    font-family: 'Raleway', Bold;
+    color:white;
+    text-align: center;
+    font-size:40px;
+
+    padding-top: 1px;
+}
+.block_prise2{
+    font-family: 'Raleway', Bold;
+    color:white;
+    font-size:120px;
+    background: #333333;
+  font-weight: bold;
+}
+.block_prise3{
+    font-family: 'Raleway', Bold;
+    color:white;
+    font-size:120px;
+    background: #333333;
+    font-weight: bolder;
+}
+
+.text_block_8_1{
+    color: #86878b;
+    font-family: 'Open Sans SemiBold';
+    font-size: 15px;
+
+}
+.line4{
+    margin-top: -10px;
+    width: 342px;
+    height: 5px;
+    background-color: orange;
+}
+.harakteristiks_block{
+    background-color:#ffffff;
+    height: 43px;
+    width: 343px;
+   margin-top: 3px;
+}
+.background_saktion2{
+    background-color: #f5f5f5;
+    margin-top: 230px;
+    height: 1250px;
+}
+.text_harakteristik{
+
+    color: #86878b;
+    font-size: 15px;
+   padding-top: 10px;
+    font-family: 'Open Sans', Regular;
+
+}
+
+.btn_block2 {
+    height: 45px;
+    width: 342px;
+    background-color : #ff9b51;
+   margin-top: -10px;
+text-align: center;
+
+
+}
+.text_block2{
+    font-family: 'Open Sans', Bold;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 15px;
+}
+.home_block6{
+
+}
+.padin{
+    padding-left: 400px;
+}
+.block_text{
+ background-color: #f5f5f5;
+    margin-top: 136px;
+
+}
+.fb__author_info {
+    margin-left: 90px;
+    margin-top: -50px;
+}
+.fb__author_info > .name {
+
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    width: 100px;
+}
+.fb__author_info > .role {
+    width: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #b4b4b7;
+}
+.stylish{
+    background-image: url("../eksamen/images/sitys.png");
+    background-size: cover;
+    padding-top: 70px;
+    padding-bottom: 60px;
+    margin-top: 103px;
+
+
+}
+.stylish h2 {
+    color: #fff;
+}
+.stylish p, a {
+    margin: 0 auto;
+    text-align: center;
+}
+.stylish .section_desc {
+    color: #dcdddc;
+    margin-bottom: 30px;
+}
+.btn-outline-primary_1 {
+    margin-top: 0px;
+    height: 34px;
+    width: 128px;
+    background: none;
+    color: #ffffff;
+    border-radius: 0px;
+    border: solid 2px;
+    text-align: center;
+
+}
+.btn-outline-primary_1:hover {
+    border-color: #ff8b38;
+    color: #ff8b38;
+}
+.section_head{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+    margin-left: 500px;
+}
+.contact_us {
+    padding-top: 108px;
+    padding-bottom: 80px;
+}
+
+.contact_us p {
+    text-align: center;
+    margin-bottom: 76px;
+}
+.button_home_block_contact {
+    margin-top: 0px;
+    height: 44px;
+    width: 143px;
+    border-radius: 5px;
+    background-color: #ff8b38;
+    color: white;
+    margin-left: 500px;
+    margin-bottom: 40px;
+}
+.footer{
+    background: #000;
+    padding-top: 20px;
+    padding-bottom: 14px;
+}
+
+.icons_in_footer {
+    justify-content: center;
+    width: 260px;
+    padding-top: 22px;
+    padding-bottom: 20px;
+}
+.icons_in_footer {
+    font-size: 10px;
+    color: #ccc;
+    margin: 0 15px;
+}
+.copyright {
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    color: #808080;
+    text-align: center;
+    margin-top: 37px;
+}
+.home_block__social_item{
+    font-size: 24px;
+    color:#cccccc;
+    cursor: pointer;
+
+}
+.home_block__social_item:hover {
+    color: #ff8b38;
+}
+.secta{
+    ;
+}
